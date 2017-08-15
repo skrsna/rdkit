@@ -1,0 +1,107 @@
+{
+  "boost-1.56.0-py27_3.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_3", 
+    "build_number": 3, 
+    "depends": [
+      "bzip2", 
+      "python 2.7*", 
+      "zlib"
+    ], 
+    "license": "Boost-1.0", 
+    "md5": "996f5fd091af152293c68250f75c2047", 
+    "mtime": 1502771506.0, 
+    "name": "boost", 
+    "platform": "osx", 
+    "sig": null, 
+    "size": 16482207, 
+    "subdir": "osx-64", 
+    "version": "1.56.0"
+  }, 
+  "cairo-1.14.6-nox_0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "nox_0", 
+    "build_number": 0, 
+    "depends": [
+      "freetype 2.5.*", 
+      "libpng 1.6.*", 
+      "pixman 0.32.*", 
+      "zlib 1.2.*"
+    ], 
+    "features": "nox", 
+    "license": "LGPL 2.1, MPL 1.1", 
+    "md5": "3d9edbd9735e27a66a7107755dcb69b3", 
+    "mtime": 1502771850.0, 
+    "name": "cairo", 
+    "platform": "osx", 
+    "sig": null, 
+    "size": 583269, 
+    "subdir": "osx-64", 
+    "version": "1.14.6"
+  }, 
+  "eigen-3.2.8-2.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "2", 
+    "build_number": 2, 
+    "depends": [], 
+    "license": "MPL2", 
+    "md5": "2056e628af3b427c645ac5a5ec875ea6", 
+    "mtime": 1502772017.0, 
+    "name": "eigen", 
+    "platform": "osx", 
+    "sig": null, 
+    "size": 610353, 
+    "subdir": "osx-64", 
+    "version": "3.2.8"
+  }, 
+  "nox-1.0-0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "0", 
+    "build_number": 0, 
+    "depends": [], 
+    "md5": "020acc54433ad9db506041ffa80449cc", 
+    "mtime": 1502771877.0, 
+    "name": "nox", 
+    "platform": "osx", 
+    "sig": null, 
+    "size": 4084, 
+    "subdir": "osx-64", 
+    "track_features": "nox", 
+    "version": "1.0"
+  }, 
+  "pixman-0.32.6-0.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "0", 
+    "build_number": 0, 
+    "depends": [], 
+    "license": "MIT", 
+    "md5": "fb95ade8035ea6f8412a5660de60a9a8", 
+    "mtime": 1502771738.0, 
+    "name": "pixman", 
+    "platform": "osx", 
+    "sig": null, 
+    "size": 1234654, 
+    "subdir": "osx-64", 
+    "version": "0.32.6"
+  }, 
+  "rdkit-2017.09.1.dev20170814-py27_1.tar.bz2": {
+    "arch": "x86_64", 
+    "build": "py27_1", 
+    "build_number": 1, 
+    "depends": [
+      "boost ==1.56.0", 
+      "cairo", 
+      "numpy >=1.13", 
+      "python 2.7*"
+    ], 
+    "license": "BSD", 
+    "md5": "5c7b758cbabb5f2fb1b833560ad11466", 
+    "mtime": 1502773761.0, 
+    "name": "rdkit", 
+    "platform": "osx", 
+    "sig": null, 
+    "size": 79175319, 
+    "subdir": "osx-64", 
+    "version": "2017.09.1.dev20170814"
+  }
+}
